@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+  <Document name="alwo-enshelper.ZPM">
+    <Module>
+      <Name>alwo-enshelper</Name>
+      <Version>1.0.0</Version>
+      <Description>IRIS Integration Extensions and Utilities</Description>
+      <Keywords>Ens Integration Extensions Utilities</Keywords>
+      <Packaging>module</Packaging>
+      <SourcesRoot>udl</SourcesRoot>
+	  <Resource Name="alwo.EnsHelper.HostRequestResponseInfo.CLS"/>
+    </Module>
+  </Document>
+</Export>
